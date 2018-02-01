@@ -1,0 +1,66 @@
+http://www.scala-lang.org
+Daniel Hinojosa
+@dhinojosa
+dhinojosa@evolutionnext.com
+
+Part 1:
+
+01. Introduction
+    What is Scala?
+    What are the positives of Scala? 
+    What are the negatives of Scala? 
+
+02. Setup
+    Creating a script in Scala 
+    Creating an application in Scala 
+    Using the REPL  
+    Worksheets IDEA and Eclipse 
+
+03. Scala Basics
+    `val` and `var` 
+    Bending Variables and Values to your Will!  
+    Byte, Short, Int, Long, Float, Boolean, and Double, Char 
+    if, else if, else, while, do while, for "loops"  
+    String formatting and interpolation  
+    Any, AnyVal, AnyRef 
+
+04. Scala Methods
+    Basic Methods  
+    About `Unit` and Conventions  
+
+05. Scala Classes
+    Classes 
+    Constructors 
+    Case Classes 
+
+Part 2:
+
+06.
+    The magic `apply` method 
+    Right-Associative Colons 
+
+07. Scala `Option` 
+   `Some` 
+   `None` 
+
+08. Scala `Object` 
+   Singletons 
+   Companion Objects 
+
+10. Scala Tuples 
+
+11. Basic Collections
+    Lists 
+    Maps  
+    Sets 
+    Strings 
+
+12. Higher Order Functions
+    Creating a function 
+    What is actually a function? 
+    Using functions with collections  
+
+13. Collections with Functions
+    The Importance of a Language with a Clean API
+
+14. Trying it all out with a grocery list
