@@ -3,35 +3,38 @@ Daniel Hinojosa
 @dhinojosa
 dhinojosa@evolutionnext.com
 
+http://github.com/dhinojosa/scalatraining-2018-02-01
+
 Part 1:
 
 01. Introduction
-    What is Scala?
-    What are the positives of Scala? 
-    What are the negatives of Scala? 
+    What is Scala? ✓
+    What are the positives of Scala? ✓
+    What are the negatives of Scala? ✓
 
 02. Setup
-    Creating a script in Scala 
-    Creating an application in Scala 
-    Using the REPL  
-    Worksheets IDEA and Eclipse 
+    Creating a script in Scala ✓
+    Creating an application in Scala ✓
+    Using the REPL ✓
+    Worksheets IDEA and Eclipse ✓
+    scastie.scala-lang.org ✓
 
 03. Scala Basics
-    `val` and `var` 
-    Bending Variables and Values to your Will!  
-    Byte, Short, Int, Long, Float, Boolean, and Double, Char 
-    if, else if, else, while, do while, for "loops"  
-    String formatting and interpolation  
-    Any, AnyVal, AnyRef 
+    `val` and `var` and `lazy val` ✓
+    Bending Variables and Values to your Will! ✓
+    Byte, Short, Int, Long, Float, Boolean, and Double, Char ✓
+    if, else if, else, while, do while, for "loops" ✓
+    String formatting and interpolation ✓
+    Any, AnyVal, AnyRef  ✓
 
 04. Scala Methods
-    Basic Methods  
-    About `Unit` and Conventions  
+    Basic Methods ✓
+    About `Unit` and Conventions ✓ 
 
 05. Scala Classes
-    Classes 
-    Constructors 
-    Case Classes 
+    Classes ✓ 
+    Constructors  ✓
+    Case Classes ✓ 
 
 Part 2:
 
@@ -39,7 +42,7 @@ Part 2:
     The magic `apply` method 
     Right-Associative Colons 
 
-07. Scala `Option` 
+07. Scala `Option`  ✓
    `Some` 
    `None` 
 
@@ -47,9 +50,9 @@ Part 2:
    Singletons 
    Companion Objects 
 
-10. Scala Tuples 
+10. Scala Tuples  ✓
 
-11. Basic Collections
+11. Basic Collections✓ 
     Lists 
     Maps  
     Sets 
